@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tailwind-props-bd-jhala"
+  },
+  "targets": {
+    "tailwind-props-bd-jhala": {
+      "hosting": {
+        "tailwind-props": [
+          "theme-switcher-bd-jhala"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
